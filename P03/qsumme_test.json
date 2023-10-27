@@ -1,0 +1,1 @@
+[{"wert": 3, "ergebnis": 3, "comment": "einstellig"}, {"wert": 25, "ergebnis": 7, "comment": "mehrstellig"}, {"wert": 125744, "ergebnis": 23, "comment": "viele Stellen"}, {"wert": "zahl", "ergebnis": "TypeError", "comment": "kein numerischer Wert"}, {"wert": -45, "ergebnis": "ValueError", "comment": "negative Zahl"}]
